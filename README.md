@@ -1,6 +1,15 @@
 # NYTSpellingBee
 A Python program designed to assist players in finding all possible words based on a set of letters from the New York Times [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) puzzle. The program reads a list of valid words and filters them according to the rules of the game, ensuring that each word meets the criteria for length and letter usage.
 
+## NYT Puzzles and codes
+| Puzzles        | Code       |
+|----------------|----------------|
+| [Wordle](https://www.nytimes.com/games/wordle/index.html)    | [NYTWordle](https://github.com/FarnoodID/NYTWordle)           |
+| [Letter Boxed](https://www.nytimes.com/puzzles/letter-boxed) | [NYTLetterBoxed](https://github.com/FarnoodID/NYTLetterBoxed) |
+| [Spelling Bee](https://www.nytimes.com/puzzles/spelling-bee) | NYTSpellingBee |
+| [Sudoku](https://www.nytimes.com/puzzles/sudoku)             | [NYTSudoku](https://github.com/FarnoodID/NYTSudoku)           |
+| [Pixletters](https://pixletters.com/)                        | [Pixletters](https://github.com/FarnoodID/Pixletters)         |
+
 ## Features
 - **Word Selection**: The program uses a predefined list of words stored in `words.txt`.
 - **User Input**: Players enter a string of letters with the center letter at the beginning, allowing the program to identify valid words.
