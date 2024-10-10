@@ -1,6 +1,5 @@
 import os
 # cwd =  os.getcwd()
-# cwd = "D:/NewYork Times Games/Spelling Bee/"
 cwd = os.path.dirname(os.path.abspath(__file__))
 cwd = cwd + '\\'
 print("Opening file at \'"+cwd+"\'")
